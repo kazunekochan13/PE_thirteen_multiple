@@ -30,6 +30,7 @@ public class thirteenMul {
             }
         }
         System.out.println(answer);
+        System.out.println(temAns);
     }
     
     public static void main(String[] args){
